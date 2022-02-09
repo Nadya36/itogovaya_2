@@ -12,7 +12,7 @@
   font-style: normal;
 }  
 
-body {
+.body {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -163,12 +163,12 @@ body {
   text-transform: uppercase; 
 }
 
-time {
+.time {
   font-family: OpenSans-Regular;
   font-size: 12px;
 }
 
-span {
+.span {
   font-family: OpenSans-Bold;
   font-size: 12px;
   margin-left: 13px;
